@@ -1,0 +1,2 @@
+[console_scripts]
+layerdocs = layerdocs.cli:main
